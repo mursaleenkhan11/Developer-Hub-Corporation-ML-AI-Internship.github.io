@@ -64,7 +64,7 @@ The main goal is to compare the performance of a **custom CNN model** with a **p
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/DHC-Internship-MLDL.git
+git clone https://github.com/mursaleenkhan11/Developer-Hub-Corporation-ML-AI-Internship.github.io.git
 cd project2_cancer_detection
 ```
 
