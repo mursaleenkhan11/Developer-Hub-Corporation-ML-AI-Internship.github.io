@@ -147,7 +147,7 @@ The system:
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/disease-prediction-ml.git
+   git clone https://github.com/mursaleenkhan11/disease-prediction-ml.git
    cd disease-prediction-ml
    ```
 2. Install dependencies:
